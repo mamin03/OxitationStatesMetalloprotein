@@ -9,3 +9,6 @@ where:
 1jb0.pdb is an example PDB file that contains Fe metal centers
 Fe is the type of the metals (the script can work with Fe, Mn, Co and Cu)
 Fe.csv is the database of the small Fe compounds
+
+The CSV files that contain "protein" in their names are the database we created
+based on our ML model for the oxidation states of metals in metalloproteins in PDB database.
